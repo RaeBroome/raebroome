@@ -71,4 +71,4 @@ With 15+ years of expertise in software engineering, database management, and De
 
 ---
 
-*"Optimizing workflows, empowering people, and creating solutions that make a difference that make a difference in our everyday lives."*
+*"Optimizing workflows, empowering people, and creating solutions that that make a difference in our everyday lives."*
