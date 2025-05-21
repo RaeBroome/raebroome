@@ -42,7 +42,7 @@ With 15+ years of expertise in software engineering, database management, and De
 - 📈 **Optimized workflows** reducing build and deployment times across 20+ customer environments
 - 🏦 **Developed banking middleware** supporting next-generation banking services with Fiserv DNA Core API
 - 🎮 **Co-owned software company** handling 200K+ POS transactions and 15M+ game transactions weekly
-- 🛡️ **Maintains security clearance** across 20 states with ongoing CJIS training
+- 🛡️ **Maintains security clearance** across over 20 states with ongoing CJIS training
 
 ## 🎖️ Military Service
 **United States Marine Corps Reserve & Navy** - Secret Security Clearance
