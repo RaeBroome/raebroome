@@ -63,7 +63,7 @@ With 15+ years of expertise in software engineering, database management, and De
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raebroome/)
 
 ## ⚡ Fun Facts
-- 🎮 Co-founded a gaming software company that released 60+ game titles across 5 platforms
+- 🎮 Co-founded a gaming software company that released 60+ game titles
 - 🚀 Currently bridging traditional software engineering with cutting-edge AI/ML technologies
 - 🎯 Passionate about mentoring the next generation of technologists
 - 🟡 Pickleball ambassador and enthusiast 
