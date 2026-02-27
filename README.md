@@ -9,7 +9,7 @@ With 15+ years of expertise in software engineering, database management, and De
 ## 🔭 Currently Working On
 - **DevOps & Infrastructure**: Managing builds, deployments, and patches across 20+ customers on 44 Azure VMs
 - **AI/ML Learning**: Completing Post Graduate Program in AI and Machine Learning (2025)
-- **Process Optimization**: Streamlining workflows and mentoring technical teams at Improving
+- **Process Optimization**: Streamlining workflows and implementing automation
 
 ## 🌱 Currently Learning
 - 🤖 **Applied Data Science with Python** - Advanced analytics and machine learning techniques
