@@ -1,6 +1,6 @@
 # Hi there, I'm Rae Broome 👋
 
-## 🚀 Senior Technologist & AI/ML Enthusiast
+## 🚀 Senior DevOps Engineer & Applied AI Builder
 
 With 15+ years of expertise in software engineering, database management, and DevOps operations, I specialize in optimizing workflows. Currently expanding into AI and Machine Learning while maintaining my passion for streamlining complex technical processes.
 
