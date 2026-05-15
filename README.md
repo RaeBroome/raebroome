@@ -7,14 +7,12 @@ With 15+ years of expertise in software engineering, database management, and De
 ---
 
 ## 🔭 Currently Working On
-- **DevOps & Infrastructure**: Creating CI/CD pipelines to support builds, deployments, and QA testing
-- **AI/ML Learning**: Completing Post Graduate Program in AI and Machine Learning (2025)
-- **Process Optimization**: Streamlining workflows and implementing automation
+- **AI-Assisted DevOps Tooling**: Building tools that use the Anthropic Claude API to accelerate engineering workflows
+- **GitHub Portfolio**: Demonstrating hands-on LLM API experience through real-world DevOps problem solving
 
 ## 🌱 Currently Learning
-- 🤖 **Applied Data Science with Python** - Advanced analytics and machine learning techniques
-- 🧠 **AI & Machine Learning** - Deep diving into modern AI frameworks and methodologies
-- ☁️ **Azure AI Services** - Expanding cloud AI capabilities (Azure AI Fundamentals certified)
+- 🤖 **Anthropic Claude API** - Building production-ready AI-assisted engineering tools
+- 🔗 **Model Context Protocol (MCP)** - Connecting AI to real engineering systems
 
 ## 💼 Professional Expertise
 
