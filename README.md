@@ -2,7 +2,7 @@
 
 ## 🚀 Senior DevOps Engineer & Applied AI Builder
 
-With 15+ years of expertise in software engineering, database management, and DevOps operations, I specialize in optimizing workflows. Currently expanding into AI and Machine Learning while maintaining my passion for streamlining complex technical processes.
+With 15+ years of expertise in software engineering, database management, and DevOps operations. I combine deep infrastructure experience with an instinct for identifying where automation and AI can eliminate the work engineers shouldn't have to do manually.
 
 ---
 
