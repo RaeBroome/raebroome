@@ -6,10 +6,6 @@
 
 ---
 
-## 🔭 Currently Working On
-- **AI-Assisted DevOps Tooling**: Building tools that use the Anthropic Claude API to accelerate engineering workflows
-- **GitHub Portfolio**: Demonstrating hands-on LLM API experience through real-world DevOps problem solving
-
 ## 💼 Professional Expertise
 
 ### **Core Technologies**
