@@ -10,10 +10,6 @@ With 15+ years of expertise in software engineering, database management, and De
 - **AI-Assisted DevOps Tooling**: Building tools that use the Anthropic Claude API to accelerate engineering workflows
 - **GitHub Portfolio**: Demonstrating hands-on LLM API experience through real-world DevOps problem solving
 
-## 🌱 Currently Learning
-- 🤖 **Anthropic Claude API** - Building production-ready AI-assisted engineering tools
-- 🔗 **Model Context Protocol (MCP)** - Connecting AI to real engineering systems
-
 ## 💼 Professional Expertise
 
 ### **Core Technologies**
